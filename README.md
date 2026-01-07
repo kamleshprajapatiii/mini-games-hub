@@ -8,13 +8,25 @@ A collection of fun mini-games built with HTML, CSS, JavaScript, jQuery, and Tai
 Classic hand game against the computer. Choose rock, paper, or scissors and see if you can beat the AI!
 
 ### 2. 🔢 Guess the Number
-Try to guess the secret number! The game will tell you if your guess is too high or too low.
+Try to guess the secret number! The game will tell you if your guess is too high or too low. Features multiple difficulty levels.
 
 ### 3. 🎲 Dice Roll Game
-Roll the dice and accumulate points, but be careful - rolling a 1 loses all your round points!
+Roll two dice and accumulate points, but be careful - rolling a 1 loses all your round points! First to reach the target score wins.
 
 ### 4. 🃏 Memory Flip Game
-Test your memory by finding matching pairs of cards. Complete the game in minimum moves!
+Test your memory by finding matching pairs of emoji cards. Complete the game in minimum moves and time!
+
+### 5. ❌⭕ Tic Tac Toe
+Classic X and O game. Play against another player or challenge the computer AI!
+
+### 6. 🪙 Coin Flip
+Flip a coin and test your luck! Make predictions and track your streaks.
+
+### 7. 🧠 Quiz Game
+Test your knowledge with 100+ questions across multiple categories including Science, Geography, History, Technology, Sports, Entertainment, and India.
+
+### 8. 🐹 Whack a Mole
+Click on moles as fast as you can before they hide! Features multiple difficulty levels.
 
 ## 🛠️ Technologies Used
 
@@ -46,7 +58,19 @@ mini-games-hub/
     ├── dice-roll/
     │   ├── index.html
     │   └── script.js
-    └── memory-flip/
+    ├── memory-flip/
+    │   ├── index.html
+    │   └── script.js
+    ├── tic-tac-toe/
+    │   ├── index.html
+    │   └── script.js
+    ├── coin-flip/
+    │   ├── index.html
+    │   └── script.js
+    ├── quiz-game/
+    │   ├── index.html
+    │   └── script.js
+    └── whack-a-mole/
         ├── index.html
         └── script.js
 ```
@@ -62,9 +86,12 @@ mini-games-hub/
 - 🎨 Beautiful gradient UI with glass morphism effect
 - 📱 Fully responsive design
 - 🌙 Dark theme
-- 💾 Local storage for high scores
+- 💾 Local storage for high scores and best performances
 - 🎭 Smooth animations and transitions
-- 🎯 Difficulty levels in some games
+- 🎯 Difficulty levels in multiple games
+- 🤖 AI opponent in Tic Tac Toe
+- ⏱️ Timer-based challenges
+- 📊 Score tracking and statistics
 
 ## 👨‍💻 Author
 
